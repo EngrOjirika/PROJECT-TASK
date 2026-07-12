@@ -6,7 +6,7 @@ AIRLINE_DATASET_DB, SEPN_CHARGES_DB, DBIN_SONGS_DATA_DB, SPORTWEARS_SALES_DB, LA
 
 2. I did Webscraping in Python on the following websites, 'list of countries by electricity production Exploratory and demographics of US 2026' with Python. Finally, Exploratory, Data Analysis (EDA) and visualization.
    
-3. EDA and ETL in Python on many databases
+3. EDA and ETL in Python on different databases
    
 4.🔹Overview
 This repository contains projects focused on database administration and analytical insights across diverse datasets. Each database represents airline operations, charges, music data, sportswear sales, and financial transactions. The goal is to demonstrate skills in data management, query optimization, and business intelligence reporting.
